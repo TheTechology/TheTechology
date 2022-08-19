@@ -1,5 +1,5 @@
 <!-- #######  YAY, I AM THE SOURCE EDITOR! #########-->
-<h1 dir="auto">Hi, I'm Marian Dumtiru aka - <a href="https://github.com/TheTechology">TheTechology</a>&nbsp;👋</h1>
+<h1 dir="auto">Hi, I'm Marian Dumtiru aka - <a href="https://github.com/TheTechology">TheTechology</a>&nbsp;👋 🇷🇴 </h1>
 <p>&nbsp;</p>
 <h2 dir="auto"><a id="user-content-im-a-medical-student-developer-and-a-content-creator" class="anchor" href="https://github.com/doctorcode9/newsapp-ui-flutter#im-a-medical-student-developer-and-a-content-creator" aria-hidden="true"></a>I am passionate about programming, but also about developing new programs or mechanisms to help humanity through my work and passion.</h2>
 <p><img src="https://camo.githubusercontent.com/abeb01161f3ec06efb171cfcf710ac0b832b4396a939010b5eca92b8edc364b6/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e6769663f6369643d656366303565343730776969766e656b786865363437657a75706d7539397a6f7975716b663635706a366478326f787a267269643d67697068792e6769662663743d67" /></p>
