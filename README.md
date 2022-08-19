@@ -1,7 +1,8 @@
 <!-- #######  YAY, I AM THE SOURCE EDITOR! #########-->
 <h1 dir="auto">Hi, I'm Marian Dumtiru aka - <a href="https://github.com/TheTechology">TheTechology</a>&nbsp;👋</h1>
-<p><a href="https://camo.githubusercontent.com/abeb01161f3ec06efb171cfcf710ac0b832b4396a939010b5eca92b8edc364b6/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e6769663f6369643d656366303565343730776969766e656b786865363437657a75706d7539397a6f7975716b663635706a366478326f787a267269643d67697068792e6769662663743d67" target="_blank" rel="noopener noreferrer" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/abeb01161f3ec06efb171cfcf710ac0b832b4396a939010b5eca92b8edc364b6/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e6769663f6369643d656366303565343730776969766e656b786865363437657a75706d7539397a6f7975716b663635706a366478326f787a267269643d67697068792e6769662663743d67" data-canonical-src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470wiivnekxhe647ezupmu99zoyuqkf65pj6dx2oxz&amp;rid=giphy.gif&amp;ct=g" data-target="animated-image.originalImage" /></a></p>
+<p>&nbsp;</p>
 <h2 dir="auto"><a id="user-content-im-a-medical-student-developer-and-a-content-creator" class="anchor" href="https://github.com/doctorcode9/newsapp-ui-flutter#im-a-medical-student-developer-and-a-content-creator" aria-hidden="true"></a>I am passionate about programming, but also about developing new programs or mechanisms to help Omanis through my work and passion.</h2>
+<p><img src="http://hotel-ellenberger.de/wp-content/uploads/2022/08/246703138_10221260366485712_3035198473510159961_n.jpg" alt="" width="305" height="305" /></p>
 <ul dir="auto">
 <li>🔭 I&rsquo;m currently working on <a href="https://github.com/TheTechology">TheTechology</a></li>
 <li>🌱 I&rsquo;m currently learning everything 😅</li>
