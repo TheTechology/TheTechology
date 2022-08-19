@@ -1,7 +1,7 @@
 <!-- #######  YAY, I AM THE SOURCE EDITOR! #########-->
 <h1 dir="auto">Hi, I'm Marian Dumtiru aka - <a href="https://github.com/TheTechology">TheTechology</a>&nbsp;👋</h1>
 <p>&nbsp;</p>
-<h2 dir="auto"><a id="user-content-im-a-medical-student-developer-and-a-content-creator" class="anchor" href="https://github.com/doctorcode9/newsapp-ui-flutter#im-a-medical-student-developer-and-a-content-creator" aria-hidden="true"></a>I am passionate about programming, but also about developing new programs or mechanisms to help omains through my work and passion.</h2>
+<h2 dir="auto"><a id="user-content-im-a-medical-student-developer-and-a-content-creator" class="anchor" href="https://github.com/doctorcode9/newsapp-ui-flutter#im-a-medical-student-developer-and-a-content-creator" aria-hidden="true"></a>I am passionate about programming, but also about developing new programs or mechanisms to help humanity through my work and passion.</h2>
 <p><img src="http://hotel-ellenberger.de/wp-content/uploads/2022/08/246703138_10221260366485712_3035198473510159961_n.jpg" alt="" width="305" height="305" /></p>
 <ul dir="auto">
 <li>🔭 I&rsquo;m currently working on <a href="https://github.com/TheTechology">TheTechology</a></li>
